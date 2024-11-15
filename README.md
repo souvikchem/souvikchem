@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @souvikchem
 - 👀 I’m interested in ... MD simulation
-- 🌱 I’m currently doing PhD 
+- 🌱 I’m currently doing PostDoc at ASU 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... souvikkondal03@gmail.com
 
